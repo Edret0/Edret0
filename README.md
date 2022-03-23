@@ -8,4 +8,4 @@
 
 ---
 
-<img align = "left" alt = "Edret0's Github Stats" src = "https://github-readem-stats.vercel.app/api?username=Edret0&show_icons=true&hide_border=true">
+<img align = "left" alt = "Edret0's Github Stats" src = "https://github-readem-stats.vercel.app/api?username=Edret0&show_icons=true&hide_border=true"> 
