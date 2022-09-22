@@ -1,4 +1,4 @@
-### Hello there, I'm Josejavier Navarro - aka[Edret0]
+### Hello there, I'm Josejavier Navarro
 
 ## I'm currently a senior university student
 - I'm currently learning front end development via the Odin Project 
