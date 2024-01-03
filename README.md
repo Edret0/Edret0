@@ -1,9 +1,9 @@
 ### Hello there, I'm Josejavier Navarro
 
-## I'm currently a senior university student
-- I'm currently learning front end development via the Odin Project 
-- I'm currently learning different skills so I can determine which area is the best for me
-- 2023 Goals: I would like to start contributing on Open Source Projects
+## I'm a recently graduated student
+  * I'm have an intrested in backend development and low level side of things
+  * So far have been getting into rust development and creating software using it
+  * 2024 goals: Continue learning rust and contribute to open source such as Neovim.
 
 
 ---
